@@ -1,0 +1,30 @@
+﻿========================================================================================================================
+
+This file lists the standards implemented in this release of '[Mali-400 r9p0-01rel0]'.
+
+------------------------------------------------------------------------------------------------------------------------
+STANDARDS
+===============================================================================
+
+Name:         [OpenGL ES] 
+Version:      [1.1]
+Summary of Standard:   [Khronos 3D graphics API]
+
+Name:         [OpenGL ES] 
+Version:      [2.0]
+Summary of Standard:   [Khronos 3D graphics API]
+
+Name:         [EGL] 
+Version:      [1.4]
+Summary of Standard:   [Khronos native platform graphics interface]
+
+Name:         [ETC1] 
+Version:      []
+Summary of Standard:   [Ericsson texture compression format]
+
+Name:         [Compressed paletted format] 
+Version:      []
+Summary of Standard:   [Paletted format]
+
+------------------------------------------------------------------------------------------------------------------------
+
